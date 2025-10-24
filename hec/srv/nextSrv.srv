@@ -1,0 +1,12 @@
+bool check
+---
+float64[] next_state
+float64 reward
+bool done
+float64[] action_srv
+float64 raw_action_srv
+float64 loss
+float64 ee_rot_loss
+float64 ee_trans_loss
+float64 hand_rot_loss
+float64 hand_trans_loss
