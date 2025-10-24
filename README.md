@@ -34,7 +34,7 @@ cd ../..
 catkin build
 ```
 
-- Kinova Gen3 Lite end-effector weights using Densefusion are [here](https://drive.google.com/drive/u/1/folders/1eSech0IvzmTBDrLPPm-NSky1l2skHeAF).
+- Kinova Gen3 Lite end-effector weights using Densefusion are [here](https://drive.google.com/drive/folders/1iTDNV9EuPDNXYYQFyqe7nQip-gd8v-8i?usp=drive_link).
 - You should move the weights to pose/weights.
 
 
@@ -60,7 +60,7 @@ cd robot_ws/src/Squeezing-HEC_code/hec
 python3 python/test_policies/RL_algo_test_kinova_discrete_sac.py
 ```
 
-### 2.2 Pose Network and Robot Control
+### 2.3 Pose Network and Robot Control
 ```
 conda activate hec
 cd robot_ws/src/Squeezing-HEC_code
@@ -72,9 +72,9 @@ So, refer to the code to integrate your robot with the desired posenet.
 
 ## 3. License
 
-License under the [MIT Ricense]()
+License under the [MIT Ricense](https://github.com/Seunghui-Shin/Squeezing-HEC_code/blob/main/license/MIT/LICENSE.txt)
 
-License under the [Kinova inc]()
+License under the [Kinova inc](https://github.com/Seunghui-Shin/Squeezing-HEC_code/blob/main/license/kinova/LICENSE.txt)
 
 
 ## 4. Code reference:
