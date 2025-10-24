@@ -40,7 +40,7 @@ catkin build
 
 ## 2. Running the code
 
-### 2.1 Gazebo simulation
+### 2.1 Simulation
 
 Run your simulation environment.
 ```
